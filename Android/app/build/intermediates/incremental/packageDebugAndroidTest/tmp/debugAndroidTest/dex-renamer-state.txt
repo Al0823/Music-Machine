@@ -1,0 +1,4 @@
+#Thu Nov 26 16:02:53 EST 2026
+base.0=E\:\\coding\\2027\\Studio\\ATA_MusicPlayer_Android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

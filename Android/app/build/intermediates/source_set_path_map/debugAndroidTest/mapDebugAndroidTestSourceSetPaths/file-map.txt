@@ -1,0 +1,4 @@
+com.ata.musicplayer.test.app-androidTest-0 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\build\generated\res\resValues\androidTest\debug
+com.ata.musicplayer.test.app-mergeDebugAndroidTestResources-1 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ata.musicplayer.test.app-mergeDebugAndroidTestResources-2 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ata.musicplayer.test.app-debugAndroidTest-3 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

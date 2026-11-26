@@ -1,0 +1,7 @@
+com.ata.musicplayer.app-pngs-0 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\build\generated\res\pngs\debug
+com.ata.musicplayer.app-resValues-1 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\build\generated\res\resValues\debug
+com.ata.musicplayer.app-packageDebugResources-2 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.ata.musicplayer.app-packageDebugResources-3 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.ata.musicplayer.app-debug-4 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.ata.musicplayer.app-debug-5 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\debug\res
+com.ata.musicplayer.app-main-6 E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\res

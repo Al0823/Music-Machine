@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ata.musicplayer"
+4    android:versionCode="1"
+5    android:versionName="1.2.3" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:3:5-17:19
+12        android:allowBackup="true"
+12-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:4:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="A.t.A. Music Player"
+15-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:5:9-44
+16        android:theme="@android:style/Theme.Material.NoActionBar"
+16-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:6:9-66
+17        android:usesCleartextTraffic="false" >
+17-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:7:9-45
+18        <activity
+18-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:8:9-16:20
+19            android:name="com.ata.musicplayer.MainActivity"
+19-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:9:13-41
+20            android:exported="true"
+20-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:10:13-36
+21            android:screenOrientation="unspecified" >
+21-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:11:13-52
+22            <intent-filter>
+22-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:12:13-15:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:13:17-69
+23-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:13:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:14:17-77
+25-->E:\coding\2027\Studio\ATA_MusicPlayer_Android\app\src\main\AndroidManifest.xml:14:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

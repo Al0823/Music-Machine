@@ -1,0 +1,1 @@
+com.ata.musicplayer:drawable/ic_launcher = 0x7f010000
